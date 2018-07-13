@@ -7,6 +7,7 @@
 
 ## 示例输出
 What is your name? Brian
+
 Hello, Brian, nice to meet you!
 
 ## 约束
@@ -17,7 +18,7 @@ Hello, Brian, nice to meet you!
 2. 编写一个新版本, 对不同的人显示不同的问候语
 
 ## Practice Record
-1. [Python](say_hi/py_script.py)
+1. [Python](py_script.py)
 2. [JAVA](say_hi/SayHi.java)
 
 
