@@ -22,4 +22,4 @@ you're looking for."
 ​	在第7章中，你将练习使用数据的列表。修改这个程序，不再提示用户输入引语，而是自己创建一个保存引语及其作者的结构，然后使用例子中的格式显示所有的引语。由映射(map)组成的数组会是个不错的选择。
 
 ## Practice Record
-1. [JAVA](java-code/src/PrintingCode.java)
+1. [JAVA](java-code/src/PrintingQuote.java)
