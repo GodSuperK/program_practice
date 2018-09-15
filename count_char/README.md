@@ -21,5 +21,5 @@ Homer has 5 characters.
 
 ## Practice Record
 
-1. [JAVA](count_char/java-code/src/CountingChar.java)
+1. [JAVA](java-code/src/CountingChar.java)
 
